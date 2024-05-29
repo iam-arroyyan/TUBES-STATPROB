@@ -1,0 +1,35 @@
+Provinsi	Jumlah Bencana Alam - Tanah Longsor	Jumlah Bencana Alam - Banjir	Jumlah Bencana Alam - Cuaca Ekstrem
+Aceh	11	100	91
+Sumatera Utara	23	83	54
+Sumatera Barat	18	58	118
+Riau	7	67	24
+Jambi	11	37	24
+Sumatera Selatan	4	39	24
+Bengkulu	9	25	11
+Lampung	5	25	46
+Kepulauan Bangka Belitung	2	15	13
+Kepulauan Riau	5	14	6
+DKI Jakarta	14	20	16
+Jawa Barat	613	247	478
+Jawa Tengah	238	153	206
+DI Yogyakarta	17	6	2
+Jawa Timur	76	149	122
+Banten	14	57	39
+Bali	63	13	8
+Nusa Tenggara Barat	10	79	17
+Nusa Tenggara Timur	24	59	28
+Kalimantan Barat	4	45	9
+Kalimantan Tengah	0	0	0
+Kalimantan Selatan	12	62	32
+Kalimantan Timur	46	36	7
+Kalimantan Utara	32	16	3
+Sulawesi Utara	3	23	13
+Sulawesi Tengah	4	96	36
+Sulawesi Selatan	24	68	90
+Sulawesi Tenggara	8	38	21
+Gorontalo	7	22	10
+Sulawesi Barat	4	23	9
+Maluku	14	23	19
+Maluku Utara	2	20	10
+Papua Barat	1	5	1
+Papua	1	20	3
